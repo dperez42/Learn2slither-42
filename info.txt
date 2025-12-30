@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/deep-learning/how-are-neural-networks-used-in-deep-q-learning/
+
+https://github.com/Sleleu/Learn2slither
+
+https://www.youtube.com/watch?v=cO5g5qLrLSo
+
+Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame (Part 1)
+https://www.youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV
+
+https://gymnasium.farama.org/
