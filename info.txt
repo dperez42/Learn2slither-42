@@ -8,3 +8,5 @@ Teach AI To Play Snake - Reinforcement Learning Tutorial With PyTorch And Pygame
 https://www.youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV
 
 https://gymnasium.farama.org/
+
+https://keras.io/examples/rl/deep_q_network_breakout/

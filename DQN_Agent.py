@@ -73,6 +73,11 @@ class DQNAgent:
 
     def replay(self, batch_size):
         """Update network weights using experience replay."""
+        # Experience replay stores the agent’s experiences (state, action, reward, next state) in a replay buffer. 
+        # During training, instead of using only the most recent experience, 
+        # a mini-batch of experiences is sampled from the buffer, 
+        # which helps break the correlation between consecutive experiences. 
+        # This improves the stability and efficiency of learning.
         # Take a number of examples (batch_size) from memory 
         minibatch = random.sample(self.memory, batch_size)
         #print(minibatch)
