@@ -16,7 +16,7 @@ The project involves creating an AI that learns to navigate through **Q-learning
 ## States and Actions
 The snake agent operates with information from **four directions around its head**, representing its local perception of the environment.
 
-![screenshotsnake](https://github.com/user-attachments/assets/0e744551-0f7d-437e-a55e-44d7c04e107d)
+
 
 
 This restriction shapes the state space and decision-making process. The agent's actions are limited to four directional movements: UP, LEFT, DOWN, and RIGHT.
@@ -72,7 +72,7 @@ Bonus points are awarded for:
 
 ```bash
 # Clone repository
-git clone https://github.com/Sleleu/AI_Snake.git
+git clone h
 
 # Go to directory
 cd AI_snake
@@ -111,7 +111,6 @@ The program can be run with various options to control its behavior:
 Example of a training statistics plot:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1c45ba2-bc71-4a03-bee6-717c135ee9fd" alt="Training Statistics Plot" width="600">
 </p>
 
 #### Game Modes
@@ -153,7 +152,6 @@ FPS = 150
 ```
 Here's what it looks like in action:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/548346d3-9ac9-4d2c-a130-b12b671396e6" alt="Large Snake Game Environment">
 </p>
 
 
